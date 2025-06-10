@@ -23,4 +23,4 @@ El objetivo es analizar la eficiencia y precisión de ambos enfoques.
 
 ### Video explicativo del proyecto
 
-[![Explicación del Proyecto](https://img.youtube.com/vi/38Qn0yLLBzk/0.jpg)](https://www.youtube.com/watch?v=38Qn0yLLBzk)
+https://youtu.be/bl0VMPoG0K0
